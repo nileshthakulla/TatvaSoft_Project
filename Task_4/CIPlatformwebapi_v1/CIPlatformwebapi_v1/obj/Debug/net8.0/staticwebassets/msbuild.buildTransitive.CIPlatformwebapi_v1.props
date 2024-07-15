@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CIPlatformwebapi_v1.props" />
+</Project>

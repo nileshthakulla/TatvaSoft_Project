@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CIPlatformwebapi_v1",
+    "\\CIPlatformwebapi_v1\\Data_Logic_layer",
+    "\\CIPlatformwebapi_v1\\Data_Logic_layer\\Migrations"
+  ],
+  "SelectedNode": "\\CIPlatformwebapi_v1\\Data_Logic_layer\\Migrations\\20240707075814_table-userdetail.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CIPlatformwebapi_v1.props" />
+</Project>
